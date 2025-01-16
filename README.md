@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **himanshu.kumar0012@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1-ckBNU4siNz-dlp4NJOQpWU2mbfb9f1S/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1ltyCT6fBd77I61pIzgUxN8BW_qQjjBbO/view?usp=sharing)
 
 - ⚡ Fun fact **My dream project is to build an AI that can tell the difference between a good cup of coffee and a bad one.**
 
