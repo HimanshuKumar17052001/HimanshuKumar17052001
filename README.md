@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshukumar17052001" alt="himanshukumar17052001" /></a> </p>
 
-- 🌱 I’m currently learning **OpenAI, Django, Flask, TensorFlow**
-
 - 📝 I regularly write articles on [https://linkedin.com/in/himanshu-k-377095102/](https://linkedin.com/in/himanshu-k-377095102/)
 
 - 📫 How to reach me **himanshu.kumar0012@gmail.com**
